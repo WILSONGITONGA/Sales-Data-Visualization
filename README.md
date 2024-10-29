@@ -50,3 +50,8 @@ Throughout this project, I applied a variety of ***data analysis*** and ***visua
 5.	**Sales Performance Assessment:** Analyzing product sales, customer demographics, and branch-specific performance.
 6.	**Customer Behavior Analysis:** Uncovering trends in customer age, location, and purchasing frequency.
 
+### Project Done By:
+**Wilson Gitonga**
+
+www.wilsongitonga.com
+
